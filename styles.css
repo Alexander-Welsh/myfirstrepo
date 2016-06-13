@@ -19,12 +19,13 @@ h1 {
 	padding:5px;
 }
 .body-title-left{
-	width:50%;
+	width:40%;
+	margin-left: 10%;
 	height:40px;
 	float:left;
 }
 .body-title-right{
-	margin-left:50%;
+	margin-left:60%;
 	height:40px;
 }
 
@@ -45,5 +46,32 @@ h1 {
 	border-radius:25px;
 	background-color:grey;
 	height:200px;
+}
 
+.aboutme{
+	text-align: center;
+	width:300px;
+	background:red;
+	margin: auto;
+	padding: 5px;
+	border:20px solid white;
+
+}
+.form{
+	text-align: center;
+	background-color: silver;
+}
+
+a{
+	text-decoration: none;
+}
+
+
+footer{
+	height:50px;
+	width: 100%;
+	background-color: grey;
+	font-size: 14px;
+	text-shadow: 1px 1px red;
+	text-align: center;
 }
