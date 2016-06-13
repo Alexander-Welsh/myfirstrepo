@@ -1,0 +1,49 @@
+h1 {
+	color:red;
+	text-align: center;
+	margin-top:20px;
+}
+
+.header{
+	border:2px dashed black;
+	width:350px;
+	height:80px;
+	margin:auto;
+
+}
+
+.body-title{
+	width:80%;
+	height 40px;
+	margin:auto;
+	padding:5px;
+}
+.body-title-left{
+	width:50%;
+	height:40px;
+	float:left;
+}
+.body-title-right{
+	margin-left:50%;
+	height:40px;
+}
+
+.list-prog{
+	width:35%;
+	border:2px solid black;
+	margin-left:10%;
+	border-radius: 25px;
+	background-color:grey;
+	float:left;
+	height:200px;
+}
+
+.list-other{
+	margin-left:50%;
+	width:35%;
+	border:2px solid red;
+	border-radius:25px;
+	background-color:grey;
+	height:200px;
+
+}
